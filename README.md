@@ -1,5 +1,4 @@
-# Nadalete
-Exercícios práticos de TDD (TypeScript + Jest)
+# Exercícios práticos de TDD (TypeScript + Jest)
 
 ## Requisitos
 - Node.js 18+ (recomendado)
